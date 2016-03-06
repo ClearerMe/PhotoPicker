@@ -8,4 +8,4 @@
 ## 截图
 
 
-![1]()
+![1](https://github.com/firewolf-ljw/PhotoPicker/blob/master/1.PNG?raw=true)
